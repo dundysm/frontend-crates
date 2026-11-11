@@ -1,29 +1,30 @@
-capture_selection: {"family":"beam","implementation":"dynamo_v2","lineage":[],"mode":"unified","payload_sha256":"96b5a0e84865f662ec507c4c6c32a3ae7ffe53a5721ba837e22cb8a2fe7a7bf3","source":"conformance/fixtures-unified-v2/families/beam/dynamo_v2-0.10.1.yaml","surface":"unified","version":"0.10.1"}
+capture_selection: {"family":"beam","implementation":"dynamo_v2","lineage":[{"family":"beam","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"beam","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"beam","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"beam","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v4","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v4","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v4","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v4","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"deepseek_v4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"deepseek_v41","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v41","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v41","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v41","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v41","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"deepseek_v41","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"gemma4","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"gemma4","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"gemma4","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"gemma4","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"gemma4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"gemma4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"glm47","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"glm47","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"glm47","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"glm47","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"glm47","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"glm47","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"gpt_oss","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"gpt_oss","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"gpt_oss","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"gpt_oss","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"hermes","implementation":"dynamo_v1","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1-11.0.6.yaml","version":"11.0.6"},{"family":"hermes","implementation":"dynamo_v1","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1-11.0.7.yaml","version":"11.0.7"},{"family":"hermes","implementation":"dynamo_v1_jail","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1_jail-11.0.6.yaml","version":"11.0.6"},{"family":"hermes","implementation":"dynamo_v1_jail","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1_jail-11.0.7.yaml","version":"11.0.7"},{"family":"kimi_k2","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k2","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k2","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k2","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k2","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"kimi_k2","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"kimi_k3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"kimi_k3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"minimax_m3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"minimax_m3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"minimax_m3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"minimax_m3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"mistral_4","implementation":"dynamo_v2","kind":"history","path":"conformance/fixtures-unified-v2/families/mistral_4/dynamo_v2-0.10.3.yaml","version":"0.10.3"},{"family":"muse_glimmer","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"muse_glimmer","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"muse_glimmer","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"muse_glimmer","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"muse_glimmer","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"muse_glimmer","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"muse_spark","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"muse_spark","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"muse_spark","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"muse_spark","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"nemotron_v3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"nemotron_v3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"nemotron_v3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"nemotron_v3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"nemotron_v3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"nemotron_v3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"nemotron_v3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_rust-0.27.1.yaml","version":"0.27.1"},{"family":"qwen3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"qwen3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"qwen3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"qwen3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"qwen3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"qwen3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_rust-0.26.0.yaml","version":"0.26.0"}],"mode":"unified","payload_sha256":"9447be696dc8183f058489f782a6b448dc02885c1fad65ae2d20f4c2a4358157","source":"conformance/fixtures-unified-v2/families/beam/dynamo_v2-0.10.3.yaml","surface":"unified","version":"0.10.3"}
 document:
   mode: unified
 schema_version: 3
 provenance:
   status: captured
-  origin: origin_7d8b245929660a70
+  origin: origin_de4285885174c2af
 origins:
-  origin_7d8b245929660a70:
-    crate_version: 0.10.1
-    source_sha256: fd11348a91035fe3700916b5183e3bb3523beb91b8858dfbb623568dc88c311b
-    git_commit: 3d068ca39629455490fa68b03a1734bdd704c7c7
+  origin_de4285885174c2af:
+    crate_version: 0.10.3
+    source_sha256: 23aa81dd78137ba05f095629af5f3a8a0190d67c9c3bb9be6cfb6de9a510b04b
+    git_commit: e3dd4b99593c03ce2b42c9afd450d2db9de193b4
 producers:
-  producer_7a3ff64dd6b80342:
+  producer_f2de0a9cece9661e:
     captured_with:
-      dynamo_v2: 0.10.1
-    capture_origin: origin_7d8b245929660a70
+      dynamo_v2: 0.10.3
+    capture_origin: origin_de4285885174c2af
 contexts:
-  context_cdf0b3c0134ec96f:
+  context_01419a81194b5a21:
+    family: beam
     mode: unified
     record_metadata:
       parser_path: unified
 record_defaults:
-  member: conformance/fixtures-unified-v2/families/beam/dynamo_v2-0.10.1.yaml
-  producer: producer_7a3ff64dd6b80342
-  context: context_cdf0b3c0134ec96f
+  member: conformance/fixtures-unified-v2/families/beam/dynamo_v2-0.10.3.yaml
+  producer: producer_f2de0a9cece9661e
+  context: context_01419a81194b5a21
 records:
   arg_array_quoted_parameter_close:
     case_key: UNIFIED.7-tool-argument-text-preservation-arg_array_quoted_parameter_close
@@ -2481,7 +2482,11 @@ records:
     output:
       assembled:
       - kind: reasoning
-        text: "before <rfl:parameter name=\"x\">\né\U0001F642<par{value}\n</rfl:parameter> after"
+        text: 'before <rfl:parameter name="x">
+
+          é🙂<par{value}
+
+          </rfl:parameter> after'
       - kind: tool_call
         name: get_weather
         arguments: '{"city": "Paris"}'
@@ -2499,7 +2504,9 @@ records:
           text: <rfl:parameter name="x">
       - expected:
         - kind: reasoning
-          text: "\né\U0001F642"
+          text: '
+
+            é🙂'
       - expected:
         - kind: reasoning
           text: '<par{value}
@@ -3500,7 +3507,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "1"
+          arguments: '1'
           complete: false
       - expected:
         - kind: tool_call
@@ -3536,7 +3543,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "2"
+          arguments: '2'
           complete: false
       - expected:
         - kind: tool_call
@@ -4244,7 +4251,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "1"
+          arguments: '1'
           complete: false
       - expected:
         - kind: tool_call
@@ -4280,7 +4287,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "2"
+          arguments: '2'
           complete: false
       - expected:
         - kind: tool_call
@@ -4333,7 +4340,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "1"
+          arguments: '1'
           complete: false
       - expected:
         - kind: tool_call
@@ -4369,7 +4376,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "2"
+          arguments: '2'
           complete: false
       - expected:
         - kind: tool_call
@@ -4679,7 +4686,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "1"
+          arguments: '1'
           complete: false
       - expected:
         - kind: tool_call
@@ -4715,7 +4722,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "2"
+          arguments: '2'
           complete: false
       - expected:
         - kind: tool_call
@@ -4779,7 +4786,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "1"
+          arguments: '1'
           complete: false
       - expected:
         - kind: tool_call
@@ -4824,7 +4831,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "2"
+          arguments: '2'
           complete: false
       - expected:
         - kind: tool_call
@@ -5520,7 +5527,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "42"
+          arguments: '42'
           complete: false
       - expected:
         - kind: tool_call
@@ -5557,7 +5564,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "42"
+          arguments: '42'
           complete: false
       - expected:
         - kind: tool_call
@@ -5594,7 +5601,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "42"
+          arguments: '42'
           complete: false
       - expected:
         - kind: tool_call
@@ -5631,7 +5638,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "42"
+          arguments: '42'
           complete: false
       - expected:
         - kind: tool_call
@@ -6708,7 +6715,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "42"
+          arguments: '42'
           complete: false
       - expected:
         - kind: tool_call
@@ -6985,7 +6992,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "42"
+          arguments: '42'
           complete: false
       - expected:
         - kind: tool_call
@@ -8699,7 +8706,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "1"
+          arguments: '1'
           complete: false
       - expected:
         - kind: tool_call
@@ -8735,7 +8742,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "2"
+          arguments: '2'
           complete: false
       - expected:
         - kind: tool_call
@@ -8819,7 +8826,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "1"
+          arguments: '1'
           complete: false
       - expected:
         - kind: tool_call
@@ -8864,7 +8871,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "2"
+          arguments: '2'
           complete: false
       - expected:
         - kind: tool_call
@@ -9344,7 +9351,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "1"
+          arguments: '1'
           complete: false
       - expected:
         - kind: tool_call
@@ -9371,7 +9378,7 @@ records:
       - expected:
         - kind: tool_call
           name: null
-          arguments: "2"
+          arguments: '2'
           complete: false
       - expected:
         - kind: tool_call
@@ -9621,6 +9628,256 @@ records:
           name: null
           arguments: '"'
           complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: '}'
+          complete: true
+      - expected: []
+  reason_markup_in_arg_empty_span_then_text:
+    case_key: UNIFIED.12-reason_markup_in_arg_empty_span_then_text
+    request: 9d508acb3f9f8dae96403efd7792b5e069b4b0fe0bb73dbe97ee770d88418e81
+    output:
+      assembled:
+      - kind: tool_call
+        name: write_file
+        arguments: '{"content": "<think></think>answer"}'
+      chunks:
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected:
+        - kind: tool_call
+          name: write_file
+          arguments: '{"content": "'
+          complete: false
+      - expected: []
+      - expected: []
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: <t
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: h
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: i
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: n
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: k
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: '>'
+          complete: false
+      - expected: []
+      - expected: []
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: </t
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: h
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: i
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: n
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: k
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: '>'
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: a
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: n
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: s
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: w
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: e
+          complete: false
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: r
+          complete: false
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected:
+        - kind: tool_call
+          name: null
+          arguments: '"'
+          complete: false
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
+      - expected: []
       - expected:
         - kind: tool_call
           name: null
