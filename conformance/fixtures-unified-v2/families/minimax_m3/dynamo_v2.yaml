@@ -1,4 +1,4 @@
-capture_selection: {"family":"minimax_m3","implementation":"dynamo_v2","lineage":[{"family":"beam","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"beam","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"beam","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"beam","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v4","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v4","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v4","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v4","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"deepseek_v4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"deepseek_v41","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v41","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v41","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v41","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v41","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"deepseek_v41","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"gemma4","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"gemma4","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"gemma4","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"gemma4","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"gemma4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"gemma4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"glm47","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"glm47","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"glm47","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"glm47","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"glm47","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"glm47","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"gpt_oss","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"gpt_oss","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"gpt_oss","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"gpt_oss","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"hermes","implementation":"dynamo_v1","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1-11.0.6.yaml","version":"11.0.6"},{"family":"hermes","implementation":"dynamo_v1","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1-11.0.7.yaml","version":"11.0.7"},{"family":"hermes","implementation":"dynamo_v1_jail","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1_jail-11.0.6.yaml","version":"11.0.6"},{"family":"hermes","implementation":"dynamo_v1_jail","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1_jail-11.0.7.yaml","version":"11.0.7"},{"family":"kimi_k2","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k2","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k2","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k2","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k2","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"kimi_k2","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"kimi_k3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"kimi_k3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"minimax_m3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"minimax_m3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"minimax_m3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"minimax_m3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"mistral_4","implementation":"dynamo_v2","kind":"history","path":"conformance/fixtures-unified-v2/families/mistral_4/dynamo_v2-0.10.3.yaml","version":"0.10.3"},{"family":"muse_glimmer","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"muse_glimmer","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"muse_glimmer","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"muse_glimmer","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"muse_glimmer","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"muse_glimmer","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"muse_spark","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"muse_spark","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"muse_spark","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"muse_spark","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"nemotron_v3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"nemotron_v3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"nemotron_v3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"nemotron_v3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"nemotron_v3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"nemotron_v3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"nemotron_v3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_rust-0.27.1.yaml","version":"0.27.1"},{"family":"qwen3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"qwen3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"qwen3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"qwen3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"qwen3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"qwen3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_rust-0.26.0.yaml","version":"0.26.0"}],"mode":"unified","payload_sha256":"aaff97b4f337f52465af173ce2fa180dcd3a87018dcee53bb309db903ea197f9","source":"conformance/fixtures-unified-v2/families/minimax_m3/dynamo_v2-0.10.3.yaml","surface":"unified","version":"0.10.3"}
+capture_selection: {"family":"minimax_m3","implementation":"dynamo_v2","lineage":[{"family":"beam","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"beam","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"beam","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"beam","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/beam/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v4","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v4","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v4","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v4","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"deepseek_v4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v4/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"deepseek_v41","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v41","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"deepseek_v41","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v41","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"deepseek_v41","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"deepseek_v41","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/deepseek_v41/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"gemma4","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"gemma4","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"gemma4","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"gemma4","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"gemma4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"gemma4","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/gemma4/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"glm47","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"glm47","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"glm47","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"glm47","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"glm47","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"glm47","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/glm47/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"gpt_oss","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"gpt_oss","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"gpt_oss","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"gpt_oss","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/gpt_oss/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"hermes","implementation":"dynamo_v1","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1-11.0.6.yaml","version":"11.0.6"},{"family":"hermes","implementation":"dynamo_v1","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1-11.0.7.yaml","version":"11.0.7"},{"family":"hermes","implementation":"dynamo_v1_jail","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1_jail-11.0.6.yaml","version":"11.0.6"},{"family":"hermes","implementation":"dynamo_v1_jail","kind":"history","path":"conformance/fixtures-unified-v2/families/hermes/dynamo_v1_jail-11.0.7.yaml","version":"11.0.7"},{"family":"kimi_k2","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k2","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k2","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k2","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k2","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"kimi_k2","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k2/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"kimi_k3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"kimi_k3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"kimi_k3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"kimi_k3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/kimi_k3/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"minimax_m3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"minimax_m3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"minimax_m3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"minimax_m3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/minimax_m3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"mistral_4","implementation":"dynamo_v2","kind":"history","path":"conformance/fixtures-unified-v2/families/mistral_4/dynamo_v2-0.10.3.yaml","version":"0.10.3"},{"family":"muse_glimmer","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"muse_glimmer","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"muse_glimmer","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"muse_glimmer","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"muse_glimmer","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"muse_glimmer","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_glimmer/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"muse_spark","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"muse_spark","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"muse_spark","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"muse_spark","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/muse_spark/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"nemotron_v3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"nemotron_v3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"nemotron_v3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"nemotron_v3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"nemotron_v3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"nemotron_v3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_rust-0.26.0.yaml","version":"0.26.0"},{"family":"nemotron_v3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/nemotron_v3/vllm_rust-0.27.1.yaml","version":"0.27.1"},{"family":"qwen3","implementation":"sglang_python","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/sglang_python-0.5.23.yaml","version":"0.5.23"},{"family":"qwen3","implementation":"sglang_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/sglang_python_batch-0.5.23.yaml","version":"0.5.23"},{"family":"qwen3","implementation":"vllm_python","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_python-0.32.0.yaml","version":"0.32.0"},{"family":"qwen3","implementation":"vllm_python_batch","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_python_batch-0.32.0.yaml","version":"0.32.0"},{"family":"qwen3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_rust-0.25.1.yaml","version":"0.25.1"},{"family":"qwen3","implementation":"vllm_rust","kind":"history","path":"conformance/fixtures-unified-v2/families/qwen3/vllm_rust-0.26.0.yaml","version":"0.26.0"}],"mode":"unified","payload_sha256":"abb1f450ad09591e5115921c9fd744195e410a027aed23470d5c53883590174c","source":"conformance/fixtures-unified-v2/families/minimax_m3/dynamo_v2-0.10.3.yaml","surface":"unified","version":"0.10.3"}
 document:
   mode: unified
 schema_version: 3
@@ -10,17 +10,52 @@ origins:
     crate_version: 0.10.3
     source_sha256: 23aa81dd78137ba05f095629af5f3a8a0190d67c9c3bb9be6cfb6de9a510b04b
     git_commit: e3dd4b99593c03ce2b42c9afd450d2db9de193b4
+  origin_20c3a8ea8bba0298:
+    crate_version: 0.10.3
+    source_sha256: 23aa81dd78137ba05f095629af5f3a8a0190d67c9c3bb9be6cfb6de9a510b04b
+    git_commit: 3befe1fd50af2390f9eb7737f3013d577a15aaf5
 producers:
   producer_f2de0a9cece9661e:
     captured_with:
       dynamo_v2: 0.10.3
     capture_origin: origin_de4285885174c2af
+  producer_df60c3d53c0419bd:
+    captured_with:
+      dynamo_v2: 0.10.3
+    capture_origin: origin_20c3a8ea8bba0298
 contexts:
   context_c96b386b4c164d0a:
     family: minimax_m3
     mode: unified
     record_metadata:
       parser_path: unified
+  context_dde0aaf394f9b433:
+    family: minimax_m3
+    mode: unified
+    record_metadata:
+      parser_path: unified
+      init:
+        named_tool: null
+        starting_state: None
+        tool_output_mode: Native
+  context_e31c9f532538826d:
+    family: minimax_m3
+    mode: unified
+    record_metadata:
+      parser_path: unified
+      init:
+        named_tool: null
+        starting_state: Reasoning
+        tool_output_mode: Native
+  context_d6b6979ccbfb126b:
+    family: minimax_m3
+    mode: unified
+    record_metadata:
+      parser_path: unified
+      init:
+        named_tool: null
+        starting_state: Response
+        tool_output_mode: Native
 record_defaults:
   member: conformance/fixtures-unified-v2/families/minimax_m3/dynamo_v2-0.10.3.yaml
   producer: producer_f2de0a9cece9661e
@@ -11534,341 +11569,42 @@ records:
       - expected: []
   reason_markup_in_arg_empty_span_then_text:
     case_key: UNIFIED.12-reason_markup_in_arg_empty_span_then_text
-    request: 385a4edc3a5a464ea0fb92c887ed92cd05a1df20b2feaa0ec00d42a769d13e03
+    producer: producer_df60c3d53c0419bd
+    context: context_dde0aaf394f9b433
+    request: 08dcbee9d11e7429e6ff68d8d166e55a4c4d6b668b5c670d6fc7f6f8e4b90137
     output:
       assembled:
-      - kind: tool_call
+      - arguments: '{"content":"<think></think>answer"}'
+        kind: tool_call
         name: write_file
-        arguments: '{"content":"<think></think>answer"}'
       chunks:
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
       - expected:
-        - kind: tool_call
-          name: write_file
-          arguments: '{"content":"'
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: <
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: t
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: h
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: i
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: n
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: k
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: '>'
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: <
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: /
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: t
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: h
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: i
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: n
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: k
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: '>'
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: a
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: n
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: s
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: w
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: e
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: r
-          complete: false
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: '"'
-          complete: false
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: '}'
+        - arguments: '{"content":"<think></think>answer"}'
           complete: true
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
+          kind: tool_call
+          name: write_file
       - expected: []
   decade_apostrophe_before_reasoning_closer:
     case_key: UNIFIED.40-decade_apostrophe_before_reasoning_closer
-    request: 255ff7ea466f68bc25a18729aec225e74436a85d3c845d4cfd3f7a0dabca70c2
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: 752f7cdb54e9fd164bb095c0ed984f33a87de7fd8c5bf6c8e718323b3fbf2b6c
     output:
       assembled:
       - kind: reasoning
         text: '''90s</mm:think>''Answer'''
       chunks:
-      - expected: []
       - expected:
         - kind: reasoning
-          text: '''9'
-      - expected:
-        - kind: reasoning
-          text: '0'
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: </mm:think>'A
-      - expected:
-        - kind: reasoning
-          text: n
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: w
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: r
-      - expected: []
+          text: '''90s</mm:think>''Answer'
       - expected:
         - kind: reasoning
           text: ''''
   inch_mark_before_reasoning_closer:
     case_key: UNIFIED.40-inch_mark_before_reasoning_closer
-    request: cb2f8ae3036a4146834f7d876304ddfc20a9df72548c46ffc2e6809eb1b3c7ce
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: db1b37986abfb52a20fb4c92f8aeeece818a2e28a4149223bc82f0b3d48c3e8b
     output:
       assembled:
       - kind: reasoning
@@ -11876,52 +11612,13 @@ records:
       chunks:
       - expected:
         - kind: reasoning
-          text: '2'
-      - expected:
-        - kind: reasoning
-          text: '7'
-      - expected:
-        - kind: reasoning
-          text: '"'
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: </mm:think>"
-      - expected:
-        - kind: reasoning
-          text: A
-      - expected:
-        - kind: reasoning
-          text: n
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: w
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: r
-      - expected:
-        - kind: reasoning
-          text: '"'
+          text: 27"</mm:think>"Answer"
       - expected: []
   mixed_quotes_before_reasoning_closer:
     case_key: UNIFIED.40-mixed_quotes_before_reasoning_closer
-    request: b8d5af893cc4d533df0d1bd39a1095c2a84f76ac7bf2bebadc0f7601e8943507
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: 9294f9b421e448761b75b57fb3fde4f4eb0b8452ad685d7e631eec33ea1221c4
     output:
       assembled:
       - kind: reasoning
@@ -11931,83 +11628,15 @@ records:
       chunks:
       - expected:
         - kind: reasoning
-          text: f
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: '''"'
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: O
-      - expected:
-        - kind: reasoning
-          text: R
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: x
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: '-'
-      - expected:
-        - kind: reasoning
-          text: '-'
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: '''
+          text: 'f''" OR x -- ''
 
-            '
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: </mm:think>"
-      - expected:
-        - kind: reasoning
-          text: A
-      - expected:
-        - kind: reasoning
-          text: n
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: w
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: r
-      - expected:
-        - kind: reasoning
-          text: '"'
+            </mm:think>"Answer"'
       - expected: []
   native_quoted_reasoning_closer_in_sentence:
     case_key: UNIFIED.40-native_quoted_reasoning_closer_in_sentence
-    request: a21a992ef95cb0b5b304b0f640bb47a01ba35f24655fe0923e80416cdb69c43c
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: 7050c49fb99a166c9670de6823f87b1789583f21ce501dce704bffe3f78083d0
     output:
       assembled:
       - kind: reasoning
@@ -12015,184 +11644,13 @@ records:
       chunks:
       - expected:
         - kind: reasoning
-          text: T
-      - expected:
-        - kind: reasoning
-          text: h
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: p
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: c
-      - expected:
-        - kind: reasoning
-          text: i
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: l
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: '"'
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: </mm:think>"
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: m
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: r
-      - expected:
-        - kind: reasoning
-          text: k
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: r
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: i
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: u
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: d
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: t
-      - expected:
-        - kind: reasoning
-          text: o
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: d
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: l
-      - expected:
-        - kind: reasoning
-          text: i
-      - expected:
-        - kind: reasoning
-          text: n
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: t
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: p
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: r
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: r
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: p
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: t
-      - expected:
-        - kind: reasoning
-          text: h
-      - expected:
-        - kind: reasoning
-          text: s
+          text: The special "</mm:think>" marker is used to delineate parser paths
       - expected: []
   native_quoted_reasoning_closer_then_answer:
     case_key: UNIFIED.40-native_quoted_reasoning_closer_then_answer
-    request: 4f0bb34845d3eb6411c1c568821709149341a10470a7b39d1a6c9ac5c64a11c6
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: 6eba1fd7debc95f85aff19896bd3456c2614eab249e44fa16bae145d4b71ee0e
     output:
       assembled:
       - kind: reasoning
@@ -12200,56 +11658,17 @@ records:
       - kind: text
         text: Answer
       chunks:
-      - expected: []
       - expected:
         - kind: reasoning
-          text: ''''
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: </mm:think>'
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
+          text: '''</mm:think>'''
         - kind: text
-          text: A
-      - expected:
-        - kind: text
-          text: n
-      - expected:
-        - kind: text
-          text: s
-      - expected:
-        - kind: text
-          text: w
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: r
+          text: Answer
       - expected: []
   native_reasoning_closer_in_quoted_sentence:
     case_key: UNIFIED.40-native_reasoning_closer_in_quoted_sentence
-    request: aaed9d514630bc2f3ba603f8bc5f3237d2f42dc84818632628abeca44967d959
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: c9f62c178ea9b74d76b8a4188e11abe8fce4a335a51488ee2e2e067c7f92816a
     output:
       assembled:
       - kind: reasoning
@@ -12257,72 +11676,13 @@ records:
       chunks:
       - expected:
         - kind: reasoning
-          text: '"'
-      - expected:
-        - kind: reasoning
-          text: T
-      - expected:
-        - kind: reasoning
-          text: h
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: p
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: c
-      - expected:
-        - kind: reasoning
-          text: i
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: l
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: </mm:think> marker ..."
+          text: '"The special </mm:think> marker ..."'
       - expected: []
   native_unquoted_reasoning_closer_in_sentence:
     case_key: UNIFIED.40-native_unquoted_reasoning_closer_in_sentence
-    request: c7abc14328caa9d491fffa8f7c1c78a99f98085904e73d0dca0dc7070b1f8f11
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: 0915606ef97d963dfa8ac6ce130068aa2971edb5a52d9c134e039a8151d6353f
     output:
       assembled:
       - kind: reasoning
@@ -12332,178 +11692,15 @@ records:
       chunks:
       - expected:
         - kind: reasoning
-          text: T
-      - expected:
-        - kind: reasoning
-          text: h
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: p
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: c
-      - expected:
-        - kind: reasoning
-          text: i
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: l
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
+          text: 'The special '
         - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: m
-      - expected:
-        - kind: text
-          text: a
-      - expected:
-        - kind: text
-          text: r
-      - expected:
-        - kind: text
-          text: k
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: r
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: i
-      - expected:
-        - kind: text
-          text: s
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: u
-      - expected:
-        - kind: text
-          text: s
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: d
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: t
-      - expected:
-        - kind: text
-          text: o
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: d
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: l
-      - expected:
-        - kind: text
-          text: i
-      - expected:
-        - kind: text
-          text: n
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: a
-      - expected:
-        - kind: text
-          text: t
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: p
-      - expected:
-        - kind: text
-          text: a
-      - expected:
-        - kind: text
-          text: r
-      - expected:
-        - kind: text
-          text: s
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: r
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: p
-      - expected:
-        - kind: text
-          text: a
-      - expected:
-        - kind: text
-          text: t
-      - expected:
-        - kind: text
-          text: h
-      - expected:
-        - kind: text
-          text: s
+          text: ' marker is used to delineate parser paths'
       - expected: []
   quoted_name_possessive_inline_closer:
     case_key: UNIFIED.40-quoted_name_possessive_inline_closer
-    request: 5acc44e80c1d6cec6073946b2f3493aa11675128809155294e1346f328d77f5f
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: d870312b1e1624e3ae5442373143fc1ca4f573b26f714bafd7f9d6c8b1dc32cd
     output:
       assembled:
       - kind: reasoning
@@ -12513,135 +11710,33 @@ records:
       chunks:
       - expected:
         - kind: reasoning
-          text: '`'
-      - expected:
-        - kind: reasoning
-          text: n
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: m
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: '`'
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: '''s'
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: p
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: t
-      - expected:
-        - kind: reasoning
-          text: h
-      - expected:
-        - kind: reasoning
-          text: .
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
+          text: '`name`''s path.'
         - kind: text
-          text: '''A'
-      - expected:
-        - kind: text
-          text: n
-      - expected:
-        - kind: text
-          text: s
-      - expected:
-        - kind: text
-          text: w
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: r
-      - expected: []
+          text: '''Answer'
       - expected:
         - kind: text
           text: ''''
   sql_fragment_before_reasoning_closer:
     case_key: UNIFIED.40-sql_fragment_before_reasoning_closer
-    request: 2286604759a3b78e3df779721e8760abb4587c2276aed62258732c052b2e6d04
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: 17e5da11bab623994dd4161149904ab542f89dbf517b1674a7a3f3bfbada64c5
     output:
       assembled:
       - kind: reasoning
         text: '''1''=''1</mm:think>''Answer'''
       chunks:
-      - expected: []
       - expected:
         - kind: reasoning
-          text: '''1'
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: '''='
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: '''1'
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: </mm:think>'A
-      - expected:
-        - kind: reasoning
-          text: n
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: w
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: r
-      - expected: []
+          text: '''1''=''1</mm:think>''Answer'
       - expected:
         - kind: reasoning
           text: ''''
   unclosed_backtick_before_reasoning_closer:
     case_key: UNIFIED.40-unclosed_backtick_before_reasoning_closer
-    request: b8c2dc6130773449e00b7320e150126af60731f9d18513f08a7cbaa1c209a699
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: 4fdb2a9816dac94260c038b246bc28cc82ae12bcfbcd8acf02b8bbf587639214
     output:
       assembled:
       - kind: reasoning
@@ -12649,58 +11744,13 @@ records:
       chunks:
       - expected:
         - kind: reasoning
-          text: '`'
-      - expected:
-        - kind: reasoning
-          text: n
-      - expected:
-        - kind: reasoning
-          text: a
-      - expected:
-        - kind: reasoning
-          text: m
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: </mm:think>`
-      - expected:
-        - kind: reasoning
-          text: A
-      - expected:
-        - kind: reasoning
-          text: n
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: w
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: r
-      - expected:
-        - kind: reasoning
-          text: '`'
+          text: '`name</mm:think>`Answer`'
       - expected: []
   unclosed_command_backtick_before_reasoning_closer:
     case_key: UNIFIED.40-unclosed_command_backtick_before_reasoning_closer
-    request: ad0f809983f13f2c457d3a05e49def2c7ca3f6a798cb5247aebd9543a5b64158
+    producer: producer_df60c3d53c0419bd
+    context: context_e31c9f532538826d
+    request: 223384616e69ba5c6809aa7276eeda59b7bc653e0476065b218e4971540a0a5d
     output:
       assembled:
       - kind: reasoning
@@ -12708,434 +11758,32 @@ records:
       chunks:
       - expected:
         - kind: reasoning
-          text: '`'
-      - expected:
-        - kind: reasoning
-          text: p
-      - expected:
-        - kind: reasoning
-          text: y
-      - expected:
-        - kind: reasoning
-          text: t
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: t
-      - expected:
-        - kind: reasoning
-          text: ' '
-      - expected:
-        - kind: reasoning
-          text: '-'
-      - expected:
-        - kind: reasoning
-          text: x
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: reasoning
-          text: </mm:think>Run `
-      - expected:
-        - kind: reasoning
-          text: p
-      - expected:
-        - kind: reasoning
-          text: y
-      - expected:
-        - kind: reasoning
-          text: t
-      - expected:
-        - kind: reasoning
-          text: e
-      - expected:
-        - kind: reasoning
-          text: s
-      - expected:
-        - kind: reasoning
-          text: t
-      - expected:
-        - kind: reasoning
-          text: '`'
+          text: '`pytest -x</mm:think>Run `pytest`'
       - expected: []
   native_quoted_control_then_call_progress:
     case_key: UNIFIED.8-native_quoted_control_then_call_progress
-    request: 67e217df5ca27e23f22ee56c0fb27438115fad1d9a3ad3a9c4e3558ccf0cb7c6
+    producer: producer_df60c3d53c0419bd
+    context: context_d6b6979ccbfb126b
+    request: 9864170d31d3dfcb51eabe65b222c93d1241d0786b72d67072b32bc6d593d6b2
     output:
       assembled:
       - kind: text
         text: 'The literal "]<]minimax[>[<tool_call>" marker is part of the explanation. '
-      - kind: tool_call
+      - arguments: '{"cmd":"Paris"}'
+        kind: tool_call
         name: run
-        arguments: '{"cmd":"Paris"}'
       chunks:
       - expected:
         - kind: text
-          text: T
+          text: 'The literal "]<]minimax[>[<tool_call>" marker is part of the explanation. '
       - expected:
-        - kind: text
-          text: h
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: l
-      - expected:
-        - kind: text
-          text: i
-      - expected:
-        - kind: text
-          text: t
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: r
-      - expected:
-        - kind: text
-          text: a
-      - expected:
-        - kind: text
-          text: l
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: '"'
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: text
-          text: ']<]minimax[>[<tool_call>"'
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: m
-      - expected:
-        - kind: text
-          text: a
-      - expected:
-        - kind: text
-          text: r
-      - expected:
-        - kind: text
-          text: k
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: r
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: i
-      - expected:
-        - kind: text
-          text: s
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: p
-      - expected:
-        - kind: text
-          text: a
-      - expected:
-        - kind: text
-          text: r
-      - expected:
-        - kind: text
-          text: t
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: o
-      - expected:
-        - kind: text
-          text: f
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: t
-      - expected:
-        - kind: text
-          text: h
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: ' '
-      - expected:
-        - kind: text
-          text: e
-      - expected:
-        - kind: text
-          text: x
-      - expected:
-        - kind: text
-          text: p
-      - expected:
-        - kind: text
-          text: l
-      - expected:
-        - kind: text
-          text: a
-      - expected:
-        - kind: text
-          text: n
-      - expected:
-        - kind: text
-          text: a
-      - expected:
-        - kind: text
-          text: t
-      - expected:
-        - kind: text
-          text: i
-      - expected:
-        - kind: text
-          text: o
-      - expected:
-        - kind: text
-          text: n
-      - expected:
-        - kind: text
-          text: .
-      - expected:
-        - kind: text
-          text: ' '
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: tool_call
+        - arguments: '{"cmd":"'
+          complete: false
+          kind: tool_call
           name: run
-          arguments: '{"cmd":"'
-          complete: false
       - expected:
-        - kind: tool_call
-          name: null
-          arguments: P
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: a
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: r
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: i
-          complete: false
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: s
-          complete: false
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: '"'
-          complete: false
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected:
-        - kind: tool_call
-          name: null
-          arguments: '}'
+        - arguments: Paris"}
           complete: true
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
-      - expected: []
+          kind: tool_call
+          name: null
       - expected: []
